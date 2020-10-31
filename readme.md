@@ -1,5 +1,6 @@
 ## A tool to convert su2 file into GMSH's pos file
 
+![Frame3dd-screenshot](https://github.com/ceanwang/bjmpsu2/blob/master/naca0012.JPG)
 
 ## 1 Convert
 
