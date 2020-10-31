@@ -1,4 +1,4 @@
-A tool to convert su2 file into pos file
+A tool to convert su2 file into GMSH's pos file
 
 1：Under DOS terminal, run:
 
